@@ -1,5 +1,13 @@
 [
   {
+    "name": "BepInEx",
+    "author": "BepInEx Team",
+    "version": "5.4.23.2",
+    "git_path": "BepInEx/BepInEx",
+    "group": "Core",
+    "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.2/BepInEx_win_x64_5.4.23.2.zip"
+  },
+  {
     "name": "Bepinject",
     "author": "Auros",
     "version": "1.0.1",
