@@ -29,6 +29,17 @@
     "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Extenject.zip"
   },
   {
+    "name": "GOOMPS",
+    "author": "buzzbb",
+    "version": "1.0.1",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "BzzzThe18th/GOOMPS",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/BzzzThe18th/GOOMPS/releases/download/1.0.1/GOOMPS.dll"
+  },
+  {
     "name": "HoneyLib",
     "author": "buzzbb",
     "version": "1.1.0",
