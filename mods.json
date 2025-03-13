@@ -7,21 +7,20 @@
 			"author": "BepInEx Team",
 			"group": "Core"
 		},
+			"name": "IIStupid Menu",
+			"tag": "",
+			"gitPath": "iiDk-the-actual/iis.Stupid.Menu",
+			"releaseId": 5,
+			"author": "iiDk",
+			"group": "Gameplay"
+		},
 		{
 			"name": "Utilla",
 			"tag": "",
-			"gitPath": "legoandmars/Utilla",
+			"gitPath": "iiDk-the-actual/Utilla-Public",
 			"releaseId": 0,
-			"author": "bobbievr",
+			"author": "bobbievr, iiDk",
 			"group": "Core"
-		},
-		{
-			"name": "HoneyLib",
-			"tag": "",
-			"gitPath": "BzzzThe18th/HoneyLib",
-			"releaseId": 0,
-			"author": "buzzbb",
-			"group": "Libraries"
 		},
 		{
 			"name": "Bepinject",
